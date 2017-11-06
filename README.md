@@ -1,2 +1,2 @@
-# personal-page.github.io
+# johnhenleydispo.github.io
 John Henley Dispo
